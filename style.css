@@ -11,6 +11,34 @@ body {
   display: flex;
   justify-content: center;
   margin: 0 auto;
+  margin-top: 26px auto;
+}
+
+.data1 {
+  font-size: 13px;
+  color: #ffffff;
+  font-family: Courier;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 26px auto;
+}
+
+.cat1 {
+  width: 200px;
+  height: 40px;
+  display: center;
+  justify-content: center;
+  margin: 0 auto;
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 12px;
+  text-decoration: none;
+  margin-top: 26px auto;
+  background: black;
+  border-radius: 16px;
+  margin-top: 60px;
 }
 
 .p1 {
@@ -20,8 +48,9 @@ body {
   font-weight: bold;
   display: flex;
   justify-content: center;
-  margin-top: 10px;
+  margin-top: 16px;
 }
+
 
 .img2 {
   width: 400px;
@@ -38,7 +67,7 @@ body {
 
 .bt1 {
   width: 200px;
-  height: 26px;
+  height: 33px;
   border-radius: 7px;
   display: center;
   text-decoration: none;
@@ -47,6 +76,8 @@ body {
   margin: 0 auto;
   background: black;
   margin-top: -90px;
+  border-color: gray;
+  margin-top: 26px auto;
 }
 
 .img3 {
@@ -63,7 +94,8 @@ body {
 
 .bt2 {
   width: 200px;
-  height: 26px;
+  height: 33px;
+  border-color: gray;
   border-radius: 7px;
   display: center;
   text-decoration: none;
@@ -72,4 +104,93 @@ body {
   margin: 0 auto;
   background: black;
   margin-top: -90px;
+  margin-top: 26px auto;
+}
+
+.cat2 {
+  width: 200px;
+  height: 40px;
+  display: center;
+  justify-content: center;
+  margin: 0 auto;
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-top: 26px auto;
+  background: black;
+  border-radius: 16px;
+  text-decoration: none;
+  margin-top: 60px;
+  font-size: 12px;
+}
+
+.img4 {
+  width: 400px;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  align-items: center;
+  max-width: 100%;
+  margin: 21px auto;
+}
+
+
+.bt3 {
+  width: 200px;
+  height: 33px;
+  border-color: gray;
+  border-radius: 7px;
+  display: center;
+  justify-content: center;
+  margin: 0 auto;
+  text-decoration: none;
+  color: gray;
+  background: black;
+  margin-top: -90px;
+  margin-top: 26px auto;
+}
+
+.cat3 {
+  width: 200px;
+  height: 40px;
+  display: center;
+  justify-content: center;
+  margin: 0 auto;
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-top: 26px auto;
+  background: black;
+  border-radius: 16px;
+  text-decoration: none;
+  margin-top: 60px;
+  font-size: 12px;
+}
+
+.img5 {
+  width: 400px;
+  height: 400px;
+  display: block;
+  justify-content: center;
+  margin: 0 auto;
+  align-items: center;
+  height: auto;
+  max-width: 100%;
+  margin-top: 21px auto;
+}
+
+.bt5 {
+  width: 200px;
+  height: 33px;
+  border-color: gray;
+  border-radius: 7px;
+  display: center;
+  justify-content: center;
+  margin: 0 auto;
+  text-decoration: none;
+  color: gray;
+  background: black;
+  margin-top: -90px;
+  margin-top: 26px auto;
 }
